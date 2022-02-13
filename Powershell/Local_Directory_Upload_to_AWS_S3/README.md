@@ -1,13 +1,13 @@
 ## ProjectTitle：Local_Directory_Upload_to_AWS_S3
-ローカルディレクトリをAmazon S3へAWS CLIコマンドを使用し、再帰的アップロードを行う
+ローカルディレクトリをAWS CLIコマンドを使用し、Amazon S3へ再帰的アップロードを行う
 
 ## Requirement
 - Powershell
 
 ## Usage
-１：Powershellプロンプトを起動する<br>
-２：スクリプトを設置しているディレクトリまでcdする<br>  
-３：右記コマンドを実行する ⇒ *(cd先のカレントパス)/ Upload_To_S3.ps1<br>
+1：Powershellプロンプトを起動する<br>
+2：スクリプトを設置しているディレクトリまでcdする<br>
+3：右記コマンドを実行する ⇒ *(cd先のカレントパス)/ Upload_To_S3.ps1<br>
 
 ***
 ## 参照
