@@ -66,7 +66,7 @@ aws-cli/2.2.5 Python/3.8.8 Windows/10 exe/AMD64 prompt/off
 ***
 ## 参照
 - 自身のQiita
-  - [【Powershell】AWS CLIでALBのリスナールールのプライオリティ値を変更しメンテナンスページの切り替えを行うps1を作成]()
+  - [【Powershell】ALBのリスナールールのプライオリティ値を変更しSorryページの切り替えを行うps1を作成]()
 - 参考にさせて頂いた記事
   - [ALBのSorryページ切り替えシェルを作成してみました(CLI)](https://cloud5.jp/alb-sorry-page-switch/) 
   - [awscliを使ったALBによるメンテナンス画面表示](https://note.com/udemaex/n/nb012758fd1f8)
